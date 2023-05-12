@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c77aea786a00e8b44807d04c63d6eba9, type: 3}
+  m_Name: Tool_Axe_Silver
+  m_EditorClassIdentifier: 
+  <DisplayName>k__BackingField: Iron Axe
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 7dc8360aa99aeda4480a5fd342816793, type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: 7dc8360aa99aeda4480a5fd342816793, type: 3}
+  <Description>k__BackingField: Intermediate silver axe. Mines trees. [1, 3] logs
+    per swing.
+  <Type>k__BackingField: {fileID: 11400000, guid: b26ff2139c7a76c4199f4c13f2c6d5d8, type: 2}
+  <MinHarvest>k__BackingField: 2
+  <MaxHarvest>k__BackingField: 3

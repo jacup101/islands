@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c77aea786a00e8b44807d04c63d6eba9, type: 3}
+  m_Name: Tool_Weapon_Copper
+  m_EditorClassIdentifier: 
+  <DisplayName>k__BackingField: Copper Sickle
+  <Sprite>k__BackingField: {fileID: 21300000, guid: ebcb15b8061618f42b11512b7dd7870f,
+    type: 3}
+  <Icon>k__BackingField: {fileID: 21300000, guid: ebcb15b8061618f42b11512b7dd7870f,
+    type: 3}
+  <Description>k__BackingField: Basic copper sickle. Deals 1 damage.
+  <Type>k__BackingField: {fileID: 11400000, guid: bc872d85f7bfd9a49af3c16bd7a772f3,
+    type: 2}
+  <MinHarvest>k__BackingField: 1
+  <MaxHarvest>k__BackingField: 1
